@@ -1,1 +1,3 @@
-# GymLocator
+# Deskripsi Aplikasi
+
+Aplikasi ini dirancang untuk membantu pengguna memilih dan menemukan gym yang sesuai dengan kebutuhan dan preferensi mereka di Kota Bandung. Dengan menyajikan informasi tentang lokasi, fasilitas, harga member, dan harga sekali datang, pengguna dapat dengan mudah menjelajahi berbagai pilihan gym. Aplikasi ini tidak hanya memudahkan pengguna untuk memahami fasilitas yang ditawarkan oleh setiap gym, tetapi juga membantu mereka membuat keputusan yang tepat mengenai biaya dan manfaat yang diperoleh dari setiap pilihan. Dengan demikian, aplikasi ini bertujuan untuk menciptakan pengalaman pengguna yang lebih baik dalam menjalani gaya hidup sehat dan aktif di Kota Bandung
