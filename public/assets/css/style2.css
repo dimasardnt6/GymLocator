@@ -1,0 +1,30 @@
+.col-lg-4 {
+    height: 605px;
+}
+
+.col-lg-8 {
+    height: 650px;
+    overflow: hidden;
+}
+
+.card-list {
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+#map {
+    height: 100%;
+}
+
+.btn-detail {
+    display: inline-block;
+    padding: 5px 10px;
+    color: white;
+    background-color: #009961;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btn-detail-rounded {
+    border-radius: 5px;
+}
