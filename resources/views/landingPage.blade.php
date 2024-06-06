@@ -150,7 +150,7 @@
                     <div class="card-right">
                       <h3>{{ $gym->nama_gym }}</h3>
                       <p>{{ $gym->alamat }}</p>
-                      <a href="{{ route('detailGym', $gym->id) }}" class="btn-detail btn-detail-rounded">
+                      <a id="buttonDetail" href="{{ route('detailGym', $gym->id) }}" class="btn-detail btn-detail-rounded">
                           Detail
                       </a>
                     </div>
@@ -351,7 +351,7 @@
                       <div class="card-right">
                         <h3>${gym.nama_gym}</h3>
                         <p>${gym.alamat}</p>
-                        <a href="{{ route('detailGym', $gym->id) }}" class="btn-detail btn-detail-rounded">
+                        <a id="buttonDetail" href="/detailGym/${gym.id}" class="btn-detail btn-detail-rounded">
                           Detail
                         </a>
                       </div>
